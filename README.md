@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Vishwas K 👋
 
-<!--
-**VishwasK07/Vishwask07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 CSE (Data Science) Student at RNSIT
+💻 Learning C++, Java, DSA & Full Stack Web Development
+🚀 Goal: Software Development Engineer (SDE)
 
-Here are some ideas to get you started:
+## Tech Stack
+- C
+- C++
+- Java
+- HTML
+- CSS
+- JavaScript (Learning)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Focus
+- Data Structures & Algorithms
+- LeetCode
+- Full Stack Web Development
+
+## Connect with me
+- GitHub: https://github.com/VishwasK07
